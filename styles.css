@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+.main-table{
+	border:1px solid black;
+	align-item:center;
+	text-align:center;
+	
+}
+td, tr,th{
+	border:1px solid black;
+}
+
+
+.table1{
+	align-item:center;
+	text-align:center;
+	padding: 0px 0px;
+}
+
+
+
+
+
+
+
+
